@@ -1,0 +1,2 @@
+# Hiragana-Characters-Web-App
+Simple single page web application written in Javascript that displays all characters of the Japanese alphabet in both image and GIF form. The user can hover over an image to activate the GIF to see how each character is drawn, they can also click each character to hear how each character is pronounced. There is also simple quiz functionality to test the user on their knowledge of Hiragana which outputs a score at the end.
